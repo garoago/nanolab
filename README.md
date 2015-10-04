@@ -1,5 +1,5 @@
-# nanoexamples
+# nanolab
 
-Examples to run with `go test`. To run all examples, do:
+Tiny examples to run with `go test`. To run all examples, do:
 
 	$ go test
